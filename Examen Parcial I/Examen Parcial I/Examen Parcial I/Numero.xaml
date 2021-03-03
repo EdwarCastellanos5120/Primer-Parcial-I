@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen_Parcial_I.Numero">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="DarkOrange" Padding="24" CornerRadius="0">
+                <Label Text="Adivina el Numero" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Frame BackgroundColor="White">
+                <Label Text="Piensa en Numero pero no me lo Digas!" 
+              HorizontalTextAlignment="Center" FontSize="20" TextColor="Black"/>
+            </Frame>
+            <Label Text="Realiza las Siguientes Operaciones!" HorizontalOptions="Start" FontSize="19" TextColor="White"></Label>
+            <Label Text="1. Multiplique el Numero x 2." HorizontalOptions="Start" FontSize="18" TextColor="White"></Label>
+            <Label Text="2. Sumele a su Resultado + 8." HorizontalOptions="Start" FontSize="18" TextColor="White"></Label>
+            <Label Text="3. Multiplique el Resultado x 5." HorizontalOptions="Start" FontSize="18" TextColor="White"></Label>
+            <Label Text="Me Puedes decir tu Resultado Final:" HorizontalOptions="Center" FontSize="22" TextColor="DarkOrange"></Label>
+            <Entry x:Name="numero01" Keyboard="Numeric"  Placeholder="Resultado"   FontSize="21" BackgroundColor="White" TextColor="Black" HorizontalOptions="Center"></Entry>
+            <Button x:Name="Boton" Clicked="Boton_Clicked"  Text="Listo!" BackgroundColor="DarkOrange" HorizontalOptions="Center" TextColor="White"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen_Parcial_I.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Yellow" Padding="24" CornerRadius="0">
+            <Label Text="MENU PRINCIPAL" HorizontalTextAlignment="Center" TextColor="Black" FontSize="36"/>
+        </Frame>
+        <Label Text=""></Label>
+        <Frame BackgroundColor="White">
+            <Label Text="La primera funcion consiste en pensar un numero y adivinar cual fue el numero que pensaste"  HorizontalTextAlignment="Center" FontSize="20" TextColor="Black"/>
+        </Frame>
+        <Button Text="Adivina el Numero"  Clicked="Button_Clicked" Background="Red" TextColor="White"  FontSize="18"></Button>
+        <Label Text=""></Label>
+        <Frame BackgroundColor="White">
+            <Label Text="La segunda funcion consiste en pensar en tu fecha de nacimiento y adivinar cual fue el dia y mes"  HorizontalTextAlignment="Center" FontSize="20" TextColor="Black"/>
+        </Frame>
+        <Button Text="Adivina la Fecha de Nacimiento"  Clicked="Button_Clicked_1" Background="Blue" TextColor="White"  FontSize="18"></Button>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen_Parcial_I.Nacimiento">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Frame BackgroundColor="Lime" Padding="24" CornerRadius="0">
+                <Label Text="Adivina tu Fecha de Nacimiento" HorizontalTextAlignment="Center" TextColor="Black" FontSize="36"/>
+            </Frame>
+            <Frame BackgroundColor="White">
+                <Label Text="Ya tienes tu fecha de Nacimiento pero no me lo Digas!"  HorizontalTextAlignment="Center" FontSize="20" TextColor="Black"/>
+            </Frame>
+            <Label Text="Realiza las Siguientes Operaciones!" HorizontalOptions="Start" FontSize="19" TextColor="White"></Label>
+            <Label Text="1. Multiplica tu dia de Nacimiento x 20." HorizontalOptions="Start" FontSize="18" TextColor="White"></Label>
+            <Label Text="2. Sumele a su Resultado + 73." HorizontalOptions="Start" FontSize="18" TextColor="White"></Label>
+            <Label Text="3. Multiplique el Resultado x 5." HorizontalOptions="Start" FontSize="18" TextColor="White"></Label>
+            <Label Text="4. Sumale el Numero de tu Mes al Resultado." HorizontalOptions="Start" FontSize="18" TextColor="White"></Label>
+            <Label Text="Me Puedes decir tu Resultado Final:" HorizontalOptions="Center" FontSize="22" TextColor="Lime"></Label>
+            <Entry x:Name="n01" Keyboard="Numeric"  Placeholder="Resultado"   FontSize="21" BackgroundColor="White" TextColor="Black" HorizontalOptions="Center"></Entry>
+            <Button x:Name="Boton" Clicked="Boton_Clicked"  Text="Listo!" BackgroundColor="Lime" HorizontalOptions="Center" TextColor="Black"></Button>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

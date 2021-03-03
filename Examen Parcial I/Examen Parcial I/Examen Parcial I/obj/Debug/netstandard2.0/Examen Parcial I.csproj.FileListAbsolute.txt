@@ -1,0 +1,16 @@
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\bin\Debug\netstandard2.0\Examen Parcial I.deps.json
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\bin\Debug\netstandard2.0\Examen Parcial I.dll
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\bin\Debug\netstandard2.0\ref\Examen Parcial I.dll
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\bin\Debug\netstandard2.0\Examen Parcial I.pdb
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\Examen Parcial I.csprojAssemblyReference.cache
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\Examen Parcial I.AssemblyInfoInputs.cache
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\Examen Parcial I.AssemblyInfo.cs
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\Examen Parcial I.csproj.CoreCompileInputs.cache
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\Examen Parcial I.dll
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\ref\Examen Parcial I.dll
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\Examen Parcial I.pdb
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\Numero.xaml.g.cs
+C:\Users\Edwar Castellanos Jr\Music\Examen Parcial I\Examen Parcial I\Examen Parcial I\obj\Debug\netstandard2.0\Nacimiento.xaml.g.cs
